@@ -1,0 +1,14 @@
+.container{
+    max-width: 50rem;
+    margin: auto;
+    background: black;
+    color: white;
+}
+
+.body {
+    background: black;
+}
+
+.html {
+    background: black;
+}
